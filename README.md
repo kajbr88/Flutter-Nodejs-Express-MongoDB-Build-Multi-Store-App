@@ -65,4 +65,4 @@ To run this application locally, you will need to have Flutter, Node.js, and Mon
 
 ## Notes
 * The Course is in progress and I will continue updating it.
-* The Author may include Chat or other features in the future if not I am going to include chat feature between customer, vendor and Web/Super Admin.
+* The Author may include other features in the future if not then I am going to include chat feature between customer, vendor and web/super admin.
